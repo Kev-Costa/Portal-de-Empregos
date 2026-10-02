@@ -7,6 +7,20 @@
 
 ---
 
+## 💻 Contexto do Projeto & Minha Contribuição
+
+Este projeto foi desenvolvido de forma colaborativa no formato de **Squad/Equipe Acadêmica**. Como integrante da equipe, fui **100% responsável pelo desenvolvimento e arquitetura do Frontend** da aplicação.
+
+### 🎨 O que eu desenvolvi no Frontend:
+- **Arquitetura & Estrutura da Aplicação:** Criação de componentes reutilizáveis, modularização de telas e rotas utilizando **Angular** e **TypeScript**.
+- **Interface & Experiência de Usuário (UI/UX):** Construção de layouts responsivos, modernos e acessíveis focados em acolhimento e facilidade de navegação com **HTML5** e **CSS3**.
+- **Consumo de APIs REST:** Integração de todas as rotas do backend (gerenciamento de vagas, cadastros, autenticação e filtros) com a interface do usuário.
+- **Formulários e Validações Client-side:** Implementação das validações de segurança e regras de negócio diretamente na camada do cliente.
+
+> ℹ️ *O repositório original da equipe e as contribuições dos demais membros podem ser consultados através dos links na seção de **Autores**.*
+
+---
+
 ## 🚀 Funcionalidades
 
 - Cadastro de candidatos com foco em segurança e acolhimento
@@ -48,7 +62,7 @@ Infelizmente, pessoas trans ainda enfrentam grande dificuldade de inserção no 
 
 ## 📸 Demonstração
 
-> *(Adicione aqui prints ou link de vídeo se tiver uma demo)*
+
 
 ---
 
@@ -83,7 +97,7 @@ Você pode compartilhar e adaptar o conteúdo para fins não comerciais, desde q
 
 - **Andre Luis Da Silveira** – [@Andre-aLuis](https://github.com/Andre-aLuis)  
 - **Kevin Costa da Silva** – [@Kev-Costa](https://github.com/Kev-Costa)  
-- **Rafael Gomes Tenório** – [@GomesTenorio](https://github.com/GomesTenorio)  
+- **Rafael Gomes Tenório** – [@GomesTenorio](https://github.com/GomesTenorio)  (Repositório Original da Squad)
 - **Thiago Saraiva Raposo** – [@Thiago-Raposo](https://github.com/Thiago-Raposo)  
 
 ---
